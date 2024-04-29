@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JRXySW9+8sXaCrqWbXKIrAZwt1iKK/PmIngRkEAVGH0=",
+  "Source": "TestAwsWebAPI",
+  "BasePath": "_content/TestAwsWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

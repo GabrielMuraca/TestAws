@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.Form1.resources
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.Properties.Resources.resources
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\bin\Debug\PruebaObjetos.exe.config
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\bin\Debug\PruebaObjetos.exe
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\bin\Debug\PruebaObjetos.pdb
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\bin\Debug\DataModel.dll
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\bin\Debug\DataModel.pdb
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.csproj.CopyComplete
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.exe
+C:\Users\gabri\source\repos\PruebaObjetos\PruebaObjetos\obj\Debug\PruebaObjetos.pdb
